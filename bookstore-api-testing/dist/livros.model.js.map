@@ -1,0 +1,1 @@
+{"version":3,"file":"livros.model.js","sourceRoot":"","sources":["../src/livros.model.ts"],"names":[],"mappings":";;;AAAA,MAAa,MAAM;IAMf,YAAY,MAAa,EAAE,IAAY,EAAE,KAAa;QAClD,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;QACrB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;CAEJ;AAZD,wBAYC"}
